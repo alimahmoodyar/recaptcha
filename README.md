@@ -1,4 +1,4 @@
-# Google reCaptcha v3, C# Development
+# Google reCaptcha v3, C# Integrated with Newtonsoft Implementation
 
 As you may know, Google reCaptcha V3 in a new version of reCaptcha which doesn't bother user to pass the "I'm not robot" check and quizes!
 
