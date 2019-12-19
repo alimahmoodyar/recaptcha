@@ -28,4 +28,10 @@ And, add this element to your <form>
   
 Well done, nothing is needed more but in your backend.
 
+In visual studio pacage manager install Newtornsoft.Json
+
+```
+PM> Install-Package Newtonsoft.Json
+```
+
 Use reCaptcha.cs class to check the response and score of the request.
